@@ -1,0 +1,27 @@
+{
+    "title": "GridMap Api",
+    "author": "Segredo",
+    "description": "小玩具GridMap的使用手册",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "plugins": ["expandable-chapters-small",
+        "github",
+        "github-buttons"
+    ],
+    "pluginsConfig": {
+        "expandable-chapters-small":{},
+        "github": {
+            "url": "https://github.com/AtsukoKagari"
+        },
+        "github-buttons": {
+            "buttons": [{
+                "user": "AtsukoKagari",
+                "repo": "GridMap",
+                "type": "star",
+                "size": "small",
+                "count": true
+                }
+            ]
+        }
+    }
+}
